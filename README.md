@@ -1,4 +1,4 @@
-# Research Refine Skill
+# Auto-Research-Refine
 
 把“研究问题已经比较明确，但方法路线还比较模糊”的阶段，推进成一份可执行、可评审、可落地的研究方案。
 
