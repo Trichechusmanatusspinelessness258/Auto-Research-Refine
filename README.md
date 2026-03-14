@@ -8,6 +8,9 @@
 - 把模糊想法拆成清晰的研究问题、方法设计、实验方案和风险项
 - 用 Claude + GPT-5.4 的外部 peer review 循环反复打磨，直到技术路线更清晰
 
+
+![Auto-Research-Refine](score_evolution.png)
+
 ## 适用场景
 
 - 你已经有一个方向，但还没有清楚的方法设计
