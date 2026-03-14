@@ -1,0 +1,10 @@
+.DS_Store
+
+papers/*
+!papers/.gitkeep
+
+literature/*
+!literature/.gitkeep
+
+refine-logs/*
+!refine-logs/.gitkeep
